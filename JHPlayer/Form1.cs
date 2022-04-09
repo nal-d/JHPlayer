@@ -48,6 +48,7 @@ namespace JHPlayer
             primeBtn.Location = new Point(ClientSize.Width - 91, 1);
             netflixBtn.Location = new Point(ClientSize.Width - 121, 1);
             youtubeBtn.Location = new Point(ClientSize.Width - 151, 1);
+            laftelBtn.Location = new Point(ClientSize.Width - 181, 1);
 
             webView.Width = ClientSize.Width - 4;
             webView.Height = ClientSize.Height - 34;
@@ -224,5 +225,9 @@ namespace JHPlayer
 
         }
 
+        private void laftelBtn_Click(object sender, EventArgs e)
+        {
+            webView.CoreWebView2.Navigate("https://laftel.net/");
+        }
     }
 }

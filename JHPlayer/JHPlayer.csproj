@@ -10,7 +10,7 @@
     <AssemblyName>JHPlayer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
@@ -52,7 +52,9 @@
     <Reference Include="Microsoft.Web.WebView2.Wpf, Version=1.0.961.33, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Web.WebView2.1.0.961.33\lib\net45\Microsoft.Web.WebView2.Wpf.dll</HintPath>
     </Reference>
-    <Reference Include="System" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing.Common, Version=4.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Drawing.Common.5.0.2\lib\net461\System.Drawing.Common.dll</HintPath>
@@ -118,22 +120,23 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\cancel.png" />
+    <EmbeddedResource Include="Resources\cancel.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\netflix.png" />
+    <EmbeddedResource Include="Resources\netflix.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\prime.png" />
+    <EmbeddedResource Include="Resources\prime.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\watcha.png" />
+    <EmbeddedResource Include="Resources\watcha.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\youtube.png" />
+    <EmbeddedResource Include="Resources\youtube.png" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="i13640349946.ico" />
+    <None Include="Resources\laftel.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Web.WebView2.1.0.961.33\build\Microsoft.Web.WebView2.targets" Condition="Exists('..\packages\Microsoft.Web.WebView2.1.0.961.33\build\Microsoft.Web.WebView2.targets')" />

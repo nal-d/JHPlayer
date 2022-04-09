@@ -117,20 +117,66 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="cancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\cancel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="cancel" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAACASURBVDhPpZNbDoAgDAS5p/EQJr4uynm0U+yHRCqkk2xCcctWI0nIooPFIPTQm07RJdooOsFL
+        D73KKmJj0coHD156XtgDbxJLbgZ5hp4AxYy7VgXWbnKNTTI/6kqumUQ0ItbDhA4IvULoI1ryl9EObk7y
+        axCaAaFfOXyZAtc55RstxTfdUu+ZqgAAAABJRU5ErkJggg==
+</value>
   </data>
-  <data name="netflix" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\netflix.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="laftel" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAFdSURBVDhPpZAxa8JQEMffV3DsksXSzhkc/ADiGAKlnyAq
+        SDs4ukm37hYyO0gcdWkh2Zu0YxOyqItogw4mQyR0ub67PEuEJ1r8wR9y9+73eDkGABdF2vxPjnFTKpUe
+        VFXt87zw70feu82PTnPXaDTex+MxBEFAmUwm0Gw2XX52n48coVarvW63W/4yOXEcQ71efxPjh2ia5ok5
+        SJIELMsSFcBoNILixbqufwgtR1GUZ3FGZFkGq9UKhsMhDAYDiKKIekXQETq7chxHtA9J05RkGeigy8rl
+        8tO+gQs7RRiGYNs2faPLOp3OJxaz2Qy63S64rkuHMjzPo5npdEo1usw0zR8slssltNttMAzjb6DIfD6H
+        VqtFWSwW1EOXceGLKg7+hkzeg5cU94UuLvG61+t9+75PS9tsNvSfsqzXa9jtdrQrdNDFCxCtUqn0q9Wq
+        eU5wFh0y+UsuirR5foD9AleHoT5OVrQHAAAAAElFTkSuQmCC
+</value>
   </data>
-  <data name="prime" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\prime.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="netflix" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAE0SURBVDhPjdPLK4VBGMfxd2tn4//hT7CSLG2Us7dhJyRZuSxIQhJFbsktl2SLYqXcSyiRFBG+
+        33qnpjM451efmmfOvM973pkmi9KAQWxhG20IaccO1jCKZiRpxAK+c4+ogllFmL/FCJK0YAlvCIvrYeYR
+        5s7QhySzuMcJPuDiDZgZxA36kWQKD9jHDVz8iUp05/W/DYZwjVPsIjzQit6o/rOBkzbwrct4hw/Y0E8p
+        q8EFXLSJ43zspnp8nkrJBv7oonN47o61h6N8XFYD37oIN9XaT/OIHV/i12OMG6gD7kWoV/CKK5T8B2pC
+        TVQf4gB3mECS4gYen3mC9Qvci2f4z5L4XXGDHphhWH/BzV2HlyuJF8SLEhoMwFQjzGkaXrwkBYxhDpOo
+        g6lAF8bhyXSiFiTLfgDE+449XscaegAAAABJRU5ErkJggg==
+</value>
   </data>
-  <data name="watcha" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\watcha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="prime" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAD8SURBVDhP3dA9S4JRGMbxswgORatbkDhLtgrhUFtDkIsQFOGiLkUh4WCBmyQGUqkIhQ4KFpjk
+        4hjiNwhc/QZNLaH9r+d5HFxU2vSCH+c+h8N5uc1q5w57djk7uyghgw2c4hw64AARZHGBJ2zC49TWBe/I
+        oYkX9BFFB/fO+IgWGtC+In5Qg3XAFR7wgTcoGquoIAy98ASfeIUu2oe16Rtp6HkpKDGcQV8K4BD6rg7Z
+        gW4PwdziSMV/E8S2XS4c7Ve/LjXxoY1n+LUwJ17UUUZeC4obBQyhfnRxg0kPrqE/D/AFrcdxjKm4kIA6
+        PcLY8YsekliDsoV1u1ziGPMHZ501e968n0oAAAAASUVORK5CYII=
+</value>
   </data>
-  <data name="youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\youtube.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="watcha" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAEsSURBVDhPnZK/KwdxGMdPMigWo0X5AywWshkMSmZSJouijEbJwKBY2KSUH5OsBhPZSKwGDBZJ
+        YUDxeul56q6zfL3q1ef5vO967nPPXfEPhvA7fDNolDHMBhcGjTKD2WDPQA7wMBw0CFYx8zYDWMRssGAg
+        Z1gL4QUzHzCADcxs3ECWMcN9A+jEzHQWxdNm1msgI5jhpQH4KpnpNsoJZtZuIB2Y4Ts24XTsX2O9QrlG
+        9w+/uxI3mE26cD3qtVi/sBUfY+9JKmxiNvBnOY56Em+j7sPPqB1mhQnMBg7sLup+PIp6PladwwoeOy/u
+        lGrnsxT1eaw6jDXuMW/QJ5Ty75t2Y41dLN90itKD5fwDm7FGfrp0C6UFc3jqp/yTfNIzOvkpTJzDCjrI
+        UYOiKIof/UN8du9kx+MAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="youtube" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAADCSURBVDhPzdIxDgFREIDhqTR0ekqFuISo3IJOFArhAAg6oqFAR6PCMcQBRCVqcQT+edlNJi9P
+        sRom+Zp/N5t9uyN/NWU00MMUS6wjK8wwRBNVpOAmjTNeCd2Rh9Sj8I0x3GuFLj4CzafHk60JVgdFXEzz
+        7SBHE6wJ4tEPfIN/zx5yMMGyD6jg4wM2JlhdlHA1zeeOMDLBegaaz33EmglJud+YwSkKSegi5eAmixb6
+        0DWeQ9c3XmW1gK7zAG0U8PMReQNg0JfqBUdlxwAAAABJRU5ErkJggg==
+</value>
   </data>
 </root>
